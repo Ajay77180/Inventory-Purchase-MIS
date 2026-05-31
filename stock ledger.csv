@@ -1,0 +1,21 @@
+SKU_Code,Product_Name,Category,Unit,Current_Stock,Reorder_Level,Max_Stock,Stock_Value,Stock_Status,Days_of_Stock
+SKU001,Steel Rods,Raw Material,Kg,2322,500,5000,197370,Adequate,110
+SKU002,Plastic Granules,Raw Material,Kg,2928,300,3000,131760,Overstocked,437
+SKU003,Corrugated Boxes,Packaging,Pcs,691,200,2000,19348,Adequate,140
+SKU004,Bubble Wrap Roll,Packaging,Roll,892,100,1000,57980,Adequate,296
+SKU005,Motor Bearings,Spare Parts,Pcs,359,50,500,114880,Adequate,359
+SKU006,Conveyor Belt,Spare Parts,Mtr,29,20,200,34800,Adequate,29
+SKU007,A4 Paper Reams,Office Supplies,Ream,1514,100,1000,272520,Overstocked,428
+SKU008,Printer Ink,Office Supplies,Pcs,129,30,300,58050,Adequate,129
+SKU009,Laptop,IT Equipment,Pcs,15,5,50,825000,Adequate,15
+SKU010,Network Switch,IT Equipment,Pcs,14,3,30,119000,Adequate,14
+SKU011,Safety Helmet,Safety Gear,Pcs,343,50,500,120050,Adequate,335
+SKU012,Safety Gloves,Safety Gear,Pair,722,100,1000,86640,Adequate,134
+SKU013,Copper Wire,Raw Material,Kg,1142,200,2000,742300,Adequate,313
+SKU014,PVC Pipe,Raw Material,Mtr,474,150,1500,45030,Adequate,140
+SKU015,Stretch Film,Packaging,Roll,281,80,800,118020,Adequate,123
+SKU016,Gear Box,Spare Parts,Pcs,135,10,100,607500,Overstocked,135
+SKU017,Office Chair,Office Supplies,Pcs,44,10,100,242000,Adequate,44
+SKU018,Fire Extinguisher,Safety Gear,Pcs,132,20,200,290400,Adequate,132
+SKU019,Aluminium Sheet,Raw Material,Kg,642,300,3000,141240,Adequate,108
+SKU020,Thermal Labels,Packaging,Roll,471,60,600,178980,Adequate,239

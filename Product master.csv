@@ -1,0 +1,21 @@
+SKU_Code,Product_Name,Category,Unit,Reorder_Level,Max_Stock,Unit_Cost,Lead_Time_Days,Vendor
+SKU001,Steel Rods,Raw Material,Kg,500,5000,85,14,Reliance Traders
+SKU002,Plastic Granules,Raw Material,Kg,300,3000,45,14,Bajaj Distributors
+SKU003,Corrugated Boxes,Packaging,Pcs,200,2000,28,7,Mahindra Parts
+SKU004,Bubble Wrap Roll,Packaging,Roll,100,1000,65,7,Godrej Logistics
+SKU005,Motor Bearings,Spare Parts,Pcs,50,500,320,21,Reliance Traders
+SKU006,Conveyor Belt,Spare Parts,Mtr,20,200,1200,21,Mahindra Parts
+SKU007,A4 Paper Reams,Office Supplies,Ream,100,1000,180,5,Godrej Logistics
+SKU008,Printer Ink,Office Supplies,Pcs,30,300,450,5,Reliance Traders
+SKU009,Laptop,IT Equipment,Pcs,5,50,55000,30,ITC Suppliers
+SKU010,Network Switch,IT Equipment,Pcs,3,30,8500,30,Birla Goods
+SKU011,Safety Helmet,Safety Gear,Pcs,50,500,350,10,Wipro Materials
+SKU012,Safety Gloves,Safety Gear,Pair,100,1000,120,10,Wipro Materials
+SKU013,Copper Wire,Raw Material,Kg,200,2000,650,14,Wipro Materials
+SKU014,PVC Pipe,Raw Material,Mtr,150,1500,95,14,ITC Suppliers
+SKU015,Stretch Film,Packaging,Roll,80,800,420,7,Wipro Materials
+SKU016,Gear Box,Spare Parts,Pcs,10,100,4500,21,Tata Supplies
+SKU017,Office Chair,Office Supplies,Pcs,10,100,5500,5,Godrej Logistics
+SKU018,Fire Extinguisher,Safety Gear,Pcs,20,200,2200,10,Tata Supplies
+SKU019,Aluminium Sheet,Raw Material,Kg,300,3000,220,14,Bajaj Distributors
+SKU020,Thermal Labels,Packaging,Roll,60,600,380,7,Tata Supplies

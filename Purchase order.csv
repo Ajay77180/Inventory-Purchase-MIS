@@ -1,0 +1,234 @@
+PO_Number,Month,Month_No,SKU_Code,Product_Name,Category,Vendor,Qty_Ordered,Unit_Cost,Total_Cost,PO_Status,Warehouse
+PO5001,Jan,1,SKU015,Stretch Film,Packaging,Wipro Materials,254,410,104140,Received,Mumbai WH
+PO5002,Jan,1,SKU017,Office Chair,Office Supplies,Godrej Logistics,25,5760,144000,Received,Delhi WH
+PO5003,Jan,1,SKU014,PVC Pipe,Raw Material,ITC Suppliers,162,90,14580,Pending,Mumbai WH
+PO5004,Jan,1,SKU014,PVC Pipe,Raw Material,ITC Suppliers,233,90,20970,Received,Delhi WH
+PO5005,Jan,1,SKU015,Stretch Film,Packaging,Wipro Materials,84,440,36960,Received,Delhi WH
+PO5006,Jan,1,SKU015,Stretch Film,Packaging,Wipro Materials,93,420,39060,Received,Chennai WH
+PO5007,Jan,1,SKU016,Gear Box,Spare Parts,Tata Supplies,23,4630,106490,Received,Mumbai WH
+PO5008,Jan,1,SKU009,Laptop,IT Equipment,ITC Suppliers,2,58080,116160,Received,Bangalore WH
+PO5009,Jan,1,SKU011,Safety Helmet,Safety Gear,Wipro Materials,94,340,31960,Received,Chennai WH
+PO5010,Jan,1,SKU016,Gear Box,Spare Parts,Tata Supplies,20,4320,86400,Received,Bangalore WH
+PO5011,Jan,1,SKU004,Bubble Wrap Roll,Packaging,Godrej Logistics,193,60,11580,Received,Chennai WH
+PO5012,Jan,1,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,328,230,75440,Received,Delhi WH
+PO5013,Jan,1,SKU012,Safety Gloves,Safety Gear,Wipro Materials,264,120,31680,Received,Mumbai WH
+PO5014,Jan,1,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,513,50,25650,Received,Bangalore WH
+PO5015,Jan,1,SKU016,Gear Box,Spare Parts,Tata Supplies,21,4450,93450,Received,Bangalore WH
+PO5016,Jan,1,SKU016,Gear Box,Spare Parts,Tata Supplies,11,4660,51260,Partial,Delhi WH
+PO5017,Jan,1,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,23,2280,52440,Received,Chennai WH
+PO5018,Jan,1,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,812,220,178640,Pending,Mumbai WH
+PO5019,Jan,1,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,16,2260,36160,Received,Chennai WH
+PO5020,Jan,1,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,261,190,49590,Received,Bangalore WH
+PO5021,Jan,1,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,313,170,53210,Received,Chennai WH
+PO5022,Jan,1,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,637,230,146510,Pending,Chennai WH
+PO5023,Jan,1,SKU001,Steel Rods,Raw Material,Reliance Traders,992,90,89280,Received,Bangalore WH
+PO5024,Jan,1,SKU014,PVC Pipe,Raw Material,ITC Suppliers,356,100,35600,Partial,Bangalore WH
+PO5025,Feb,2,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,918,40,36720,Received,Mumbai WH
+PO5026,Feb,2,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,56,2110,118160,Pending,Bangalore WH
+PO5027,Feb,2,SKU012,Safety Gloves,Safety Gear,Wipro Materials,74,130,9620,Cancelled,Mumbai WH
+PO5028,Feb,2,SKU014,PVC Pipe,Raw Material,ITC Suppliers,351,100,35100,Pending,Chennai WH
+PO5029,Feb,2,SKU003,Corrugated Boxes,Packaging,Mahindra Parts,138,30,4140,Received,Mumbai WH
+PO5030,Feb,2,SKU014,PVC Pipe,Raw Material,ITC Suppliers,332,100,33200,Pending,Bangalore WH
+PO5031,Feb,2,SKU005,Motor Bearings,Spare Parts,Reliance Traders,59,340,20060,Pending,Bangalore WH
+PO5032,Feb,2,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,43,2280,98040,Received,Bangalore WH
+PO5033,Feb,2,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,54,2110,113940,Received,Mumbai WH
+PO5034,Feb,2,SKU011,Safety Helmet,Safety Gear,Wipro Materials,56,360,20160,Received,Mumbai WH
+PO5035,Feb,2,SKU010,Network Switch,IT Equipment,Birla Goods,2,8330,16660,Received,Mumbai WH
+PO5036,Feb,2,SKU016,Gear Box,Spare Parts,Tata Supplies,27,4730,127710,Received,Mumbai WH
+PO5037,Feb,2,SKU013,Copper Wire,Raw Material,Wipro Materials,164,680,111520,Received,Chennai WH
+PO5038,Feb,2,SKU013,Copper Wire,Raw Material,Wipro Materials,134,650,87100,Received,Mumbai WH
+PO5039,Feb,2,SKU003,Corrugated Boxes,Packaging,Mahindra Parts,163,30,4890,Received,Mumbai WH
+PO5040,Feb,2,SKU016,Gear Box,Spare Parts,Tata Supplies,14,4850,67900,Pending,Delhi WH
+PO5041,Mar,3,SKU013,Copper Wire,Raw Material,Wipro Materials,128,690,88320,Received,Bangalore WH
+PO5042,Mar,3,SKU016,Gear Box,Spare Parts,Tata Supplies,28,4480,125440,Received,Delhi WH
+PO5043,Mar,3,SKU009,Laptop,IT Equipment,ITC Suppliers,13,55620,723060,Received,Bangalore WH
+PO5044,Mar,3,SKU004,Bubble Wrap Roll,Packaging,Godrej Logistics,74,70,5180,Received,Bangalore WH
+PO5045,Mar,3,SKU015,Stretch Film,Packaging,Wipro Materials,116,410,47560,Cancelled,Chennai WH
+PO5046,Mar,3,SKU004,Bubble Wrap Roll,Packaging,Godrej Logistics,229,70,16030,Received,Mumbai WH
+PO5047,Mar,3,SKU005,Motor Bearings,Spare Parts,Reliance Traders,108,300,32400,Received,Delhi WH
+PO5048,Mar,3,SKU014,PVC Pipe,Raw Material,ITC Suppliers,130,100,13000,Pending,Bangalore WH
+PO5049,Mar,3,SKU003,Corrugated Boxes,Packaging,Mahindra Parts,630,30,18900,Received,Bangalore WH
+PO5050,Mar,3,SKU001,Steel Rods,Raw Material,Reliance Traders,1085,90,97650,Received,Bangalore WH
+PO5051,Mar,3,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,172,180,30960,Received,Chennai WH
+PO5052,Mar,3,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,42,2180,91560,Received,Mumbai WH
+PO5053,Mar,3,SKU012,Safety Gloves,Safety Gear,Wipro Materials,251,120,30120,Received,Mumbai WH
+PO5054,Mar,3,SKU010,Network Switch,IT Equipment,Birla Goods,5,9160,45800,Partial,Chennai WH
+PO5055,Mar,3,SKU009,Laptop,IT Equipment,ITC Suppliers,3,57870,173610,Pending,Delhi WH
+PO5056,Mar,3,SKU010,Network Switch,IT Equipment,Birla Goods,6,8400,50400,Received,Bangalore WH
+PO5057,Mar,3,SKU001,Steel Rods,Raw Material,Reliance Traders,448,90,40320,Received,Bangalore WH
+PO5058,Mar,3,SKU005,Motor Bearings,Spare Parts,Reliance Traders,115,320,36800,Received,Chennai WH
+PO5059,Mar,3,SKU017,Office Chair,Office Supplies,Godrej Logistics,30,5770,173100,Partial,Bangalore WH
+PO5060,Mar,3,SKU016,Gear Box,Spare Parts,Tata Supplies,29,4650,134850,Received,Chennai WH
+PO5061,Mar,3,SKU004,Bubble Wrap Roll,Packaging,Godrej Logistics,312,70,21840,Received,Mumbai WH
+PO5062,Mar,3,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,486,220,106920,Pending,Delhi WH
+PO5063,Mar,3,SKU010,Network Switch,IT Equipment,Birla Goods,5,8900,44500,Received,Bangalore WH
+PO5064,Mar,3,SKU012,Safety Gloves,Safety Gear,Wipro Materials,318,120,38160,Received,Mumbai WH
+PO5065,Apr,4,SKU014,PVC Pipe,Raw Material,ITC Suppliers,143,90,12870,Pending,Bangalore WH
+PO5066,Apr,4,SKU011,Safety Helmet,Safety Gear,Wipro Materials,132,370,48840,Received,Chennai WH
+PO5067,Apr,4,SKU013,Copper Wire,Raw Material,Wipro Materials,396,650,257400,Pending,Bangalore WH
+PO5068,Apr,4,SKU003,Corrugated Boxes,Packaging,Mahindra Parts,635,30,19050,Received,Chennai WH
+PO5069,Apr,4,SKU010,Network Switch,IT Equipment,Birla Goods,8,8810,70480,Received,Mumbai WH
+PO5070,Apr,4,SKU020,Thermal Labels,Packaging,Tata Supplies,89,370,32930,Received,Mumbai WH
+PO5071,Apr,4,SKU020,Thermal Labels,Packaging,Tata Supplies,193,360,69480,Received,Delhi WH
+PO5072,Apr,4,SKU011,Safety Helmet,Safety Gear,Wipro Materials,157,360,56520,Received,Bangalore WH
+PO5073,Apr,4,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,255,180,45900,Received,Delhi WH
+PO5074,Apr,4,SKU008,Printer Ink,Office Supplies,Reliance Traders,57,450,25650,Partial,Delhi WH
+PO5075,Apr,4,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,486,230,111780,Received,Chennai WH
+PO5076,Apr,4,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,10,2150,21500,Received,Delhi WH
+PO5077,Apr,4,SKU014,PVC Pipe,Raw Material,ITC Suppliers,216,90,19440,Received,Delhi WH
+PO5078,Apr,4,SKU013,Copper Wire,Raw Material,Wipro Materials,415,700,290500,Received,Mumbai WH
+PO5079,Apr,4,SKU012,Safety Gloves,Safety Gear,Wipro Materials,218,120,26160,Received,Mumbai WH
+PO5080,Apr,4,SKU006,Conveyor Belt,Spare Parts,Mahindra Parts,28,1210,33880,Received,Delhi WH
+PO5081,Apr,4,SKU003,Corrugated Boxes,Packaging,Mahindra Parts,661,30,19830,Partial,Bangalore WH
+PO5082,Apr,4,SKU010,Network Switch,IT Equipment,Birla Goods,3,8360,25080,Received,Delhi WH
+PO5083,May,5,SKU008,Printer Ink,Office Supplies,Reliance Traders,50,460,23000,Received,Chennai WH
+PO5084,May,5,SKU017,Office Chair,Office Supplies,Godrej Logistics,11,5300,58300,Received,Delhi WH
+PO5085,May,5,SKU020,Thermal Labels,Packaging,Tata Supplies,200,360,72000,Received,Bangalore WH
+PO5086,May,5,SKU016,Gear Box,Spare Parts,Tata Supplies,29,4550,131950,Received,Mumbai WH
+PO5087,May,5,SKU008,Printer Ink,Office Supplies,Reliance Traders,37,450,16650,Pending,Chennai WH
+PO5088,May,5,SKU012,Safety Gloves,Safety Gear,Wipro Materials,135,120,16200,Received,Delhi WH
+PO5089,May,5,SKU006,Conveyor Belt,Spare Parts,Mahindra Parts,11,1240,13640,Partial,Mumbai WH
+PO5090,May,5,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,430,230,98900,Pending,Delhi WH
+PO5091,May,5,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,466,40,18640,Received,Delhi WH
+PO5092,May,5,SKU011,Safety Helmet,Safety Gear,Wipro Materials,141,350,49350,Partial,Chennai WH
+PO5093,May,5,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,206,190,39140,Cancelled,Delhi WH
+PO5094,May,5,SKU016,Gear Box,Spare Parts,Tata Supplies,10,4520,45200,Received,Mumbai WH
+PO5095,May,5,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,942,50,47100,Received,Delhi WH
+PO5096,May,5,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,53,2370,125610,Pending,Delhi WH
+PO5097,May,5,SKU009,Laptop,IT Equipment,ITC Suppliers,8,52980,423840,Received,Mumbai WH
+PO5098,May,5,SKU003,Corrugated Boxes,Packaging,Mahindra Parts,605,30,18150,Received,Bangalore WH
+PO5099,May,5,SKU004,Bubble Wrap Roll,Packaging,Godrej Logistics,163,70,11410,Received,Chennai WH
+PO5100,Jun,6,SKU004,Bubble Wrap Roll,Packaging,Godrej Logistics,250,60,15000,Partial,Bangalore WH
+PO5101,Jun,6,SKU012,Safety Gloves,Safety Gear,Wipro Materials,332,120,39840,Pending,Delhi WH
+PO5102,Jun,6,SKU011,Safety Helmet,Safety Gear,Wipro Materials,66,340,22440,Partial,Bangalore WH
+PO5103,Jun,6,SKU011,Safety Helmet,Safety Gear,Wipro Materials,51,360,18360,Received,Delhi WH
+PO5104,Jun,6,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,153,50,7650,Received,Delhi WH
+PO5105,Jun,6,SKU012,Safety Gloves,Safety Gear,Wipro Materials,291,130,37830,Partial,Bangalore WH
+PO5106,Jun,6,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,174,180,31320,Received,Mumbai WH
+PO5107,Jun,6,SKU015,Stretch Film,Packaging,Wipro Materials,70,450,31500,Received,Bangalore WH
+PO5108,Jun,6,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,252,180,45360,Received,Mumbai WH
+PO5109,Jun,6,SKU017,Office Chair,Office Supplies,Godrej Logistics,8,5800,46400,Partial,Mumbai WH
+PO5110,Jun,6,SKU016,Gear Box,Spare Parts,Tata Supplies,21,4390,92190,Received,Chennai WH
+PO5111,Jun,6,SKU017,Office Chair,Office Supplies,Godrej Logistics,29,5600,162400,Received,Bangalore WH
+PO5112,Jun,6,SKU011,Safety Helmet,Safety Gear,Wipro Materials,106,370,39220,Pending,Mumbai WH
+PO5113,Jun,6,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,128,190,24320,Received,Chennai WH
+PO5114,Jun,6,SKU014,PVC Pipe,Raw Material,ITC Suppliers,467,100,46700,Partial,Delhi WH
+PO5115,Jun,6,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,960,230,220800,Partial,Delhi WH
+PO5116,Jun,6,SKU006,Conveyor Belt,Spare Parts,Mahindra Parts,29,1240,35960,Received,Delhi WH
+PO5117,Jun,6,SKU009,Laptop,IT Equipment,ITC Suppliers,9,57920,521280,Received,Delhi WH
+PO5118,Jun,6,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,118,190,22420,Received,Mumbai WH
+PO5119,Jul,7,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,428,40,17120,Partial,Chennai WH
+PO5120,Jul,7,SKU004,Bubble Wrap Roll,Packaging,Godrej Logistics,163,60,9780,Received,Delhi WH
+PO5121,Jul,7,SKU012,Safety Gloves,Safety Gear,Wipro Materials,136,120,16320,Pending,Delhi WH
+PO5122,Jul,7,SKU020,Thermal Labels,Packaging,Tata Supplies,51,380,19380,Received,Delhi WH
+PO5123,Jul,7,SKU017,Office Chair,Office Supplies,Godrej Logistics,14,5810,81340,Received,Bangalore WH
+PO5124,Jul,7,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,41,2340,95940,Received,Delhi WH
+PO5125,Jul,7,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,739,230,169970,Received,Bangalore WH
+PO5126,Jul,7,SKU017,Office Chair,Office Supplies,Godrej Logistics,33,5520,182160,Cancelled,Bangalore WH
+PO5127,Jul,7,SKU009,Laptop,IT Equipment,ITC Suppliers,8,52780,422240,Received,Chennai WH
+PO5128,Jul,7,SKU020,Thermal Labels,Packaging,Tata Supplies,65,410,26650,Received,Bangalore WH
+PO5129,Jul,7,SKU012,Safety Gloves,Safety Gear,Wipro Materials,290,130,37700,Pending,Mumbai WH
+PO5130,Jul,7,SKU016,Gear Box,Spare Parts,Tata Supplies,11,4430,48730,Received,Chennai WH
+PO5131,Jul,7,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,367,50,18350,Received,Delhi WH
+PO5132,Jul,7,SKU008,Printer Ink,Office Supplies,Reliance Traders,64,440,28160,Partial,Bangalore WH
+PO5133,Jul,7,SKU014,PVC Pipe,Raw Material,ITC Suppliers,451,90,40590,Received,Delhi WH
+PO5134,Jul,7,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,25,2150,53750,Received,Delhi WH
+PO5135,Jul,7,SKU009,Laptop,IT Equipment,ITC Suppliers,8,53140,425120,Received,Mumbai WH
+PO5136,Jul,7,SKU008,Printer Ink,Office Supplies,Reliance Traders,85,450,38250,Received,Chennai WH
+PO5137,Jul,7,SKU008,Printer Ink,Office Supplies,Reliance Traders,96,460,44160,Partial,Bangalore WH
+PO5138,Jul,7,SKU014,PVC Pipe,Raw Material,ITC Suppliers,99,100,9900,Received,Delhi WH
+PO5139,Jul,7,SKU014,PVC Pipe,Raw Material,ITC Suppliers,395,100,39500,Received,Bangalore WH
+PO5140,Jul,7,SKU008,Printer Ink,Office Supplies,Reliance Traders,84,450,37800,Received,Chennai WH
+PO5141,Jul,7,SKU004,Bubble Wrap Roll,Packaging,Godrej Logistics,159,60,9540,Received,Delhi WH
+PO5142,Aug,8,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,658,50,32900,Partial,Chennai WH
+PO5143,Aug,8,SKU017,Office Chair,Office Supplies,Godrej Logistics,33,5270,173910,Cancelled,Mumbai WH
+PO5144,Aug,8,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,249,170,42330,Cancelled,Delhi WH
+PO5145,Aug,8,SKU016,Gear Box,Spare Parts,Tata Supplies,14,4560,63840,Received,Delhi WH
+PO5146,Aug,8,SKU020,Thermal Labels,Packaging,Tata Supplies,132,390,51480,Received,Bangalore WH
+PO5147,Aug,8,SKU020,Thermal Labels,Packaging,Tata Supplies,48,400,19200,Received,Bangalore WH
+PO5148,Aug,8,SKU006,Conveyor Belt,Spare Parts,Mahindra Parts,55,1280,70400,Received,Chennai WH
+PO5149,Aug,8,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,580,230,133400,Received,Mumbai WH
+PO5150,Aug,8,SKU017,Office Chair,Office Supplies,Godrej Logistics,6,5800,34800,Received,Chennai WH
+PO5151,Aug,8,SKU017,Office Chair,Office Supplies,Godrej Logistics,27,5460,147420,Pending,Delhi WH
+PO5152,Aug,8,SKU010,Network Switch,IT Equipment,Birla Goods,2,8800,17600,Cancelled,Bangalore WH
+PO5153,Aug,8,SKU020,Thermal Labels,Packaging,Tata Supplies,54,390,21060,Received,Delhi WH
+PO5154,Aug,8,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,349,50,17450,Received,Chennai WH
+PO5155,Aug,8,SKU016,Gear Box,Spare Parts,Tata Supplies,22,4760,104720,Pending,Bangalore WH
+PO5156,Aug,8,SKU012,Safety Gloves,Safety Gear,Wipro Materials,243,130,31590,Received,Delhi WH
+PO5157,Sep,9,SKU004,Bubble Wrap Roll,Packaging,Godrej Logistics,204,70,14280,Received,Mumbai WH
+PO5158,Sep,9,SKU008,Printer Ink,Office Supplies,Reliance Traders,47,470,22090,Received,Mumbai WH
+PO5159,Sep,9,SKU016,Gear Box,Spare Parts,Tata Supplies,30,4700,141000,Received,Delhi WH
+PO5160,Sep,9,SKU001,Steel Rods,Raw Material,Reliance Traders,361,80,28880,Partial,Chennai WH
+PO5161,Sep,9,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,241,170,40970,Received,Mumbai WH
+PO5162,Sep,9,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,260,180,46800,Cancelled,Chennai WH
+PO5163,Sep,9,SKU020,Thermal Labels,Packaging,Tata Supplies,138,360,49680,Pending,Delhi WH
+PO5164,Sep,9,SKU009,Laptop,IT Equipment,ITC Suppliers,12,54300,651600,Received,Bangalore WH
+PO5165,Sep,9,SKU005,Motor Bearings,Spare Parts,Reliance Traders,106,340,36040,Received,Chennai WH
+PO5166,Sep,9,SKU011,Safety Helmet,Safety Gear,Wipro Materials,62,360,22320,Received,Chennai WH
+PO5167,Sep,9,SKU001,Steel Rods,Raw Material,Reliance Traders,1170,90,105300,Received,Mumbai WH
+PO5168,Sep,9,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,101,170,17170,Received,Delhi WH
+PO5169,Sep,9,SKU001,Steel Rods,Raw Material,Reliance Traders,1040,90,93600,Received,Chennai WH
+PO5170,Sep,9,SKU004,Bubble Wrap Roll,Packaging,Godrej Logistics,299,70,20930,Received,Bangalore WH
+PO5171,Sep,9,SKU015,Stretch Film,Packaging,Wipro Materials,189,400,75600,Cancelled,Mumbai WH
+PO5172,Sep,9,SKU014,PVC Pipe,Raw Material,ITC Suppliers,184,100,18400,Pending,Chennai WH
+PO5173,Sep,9,SKU008,Printer Ink,Office Supplies,Reliance Traders,15,470,7050,Received,Delhi WH
+PO5174,Sep,9,SKU010,Network Switch,IT Equipment,Birla Goods,5,8890,44450,Received,Chennai WH
+PO5175,Sep,9,SKU016,Gear Box,Spare Parts,Tata Supplies,17,4480,76160,Partial,Bangalore WH
+PO5176,Sep,9,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,297,180,53460,Pending,Bangalore WH
+PO5177,Sep,9,SKU014,PVC Pipe,Raw Material,ITC Suppliers,98,100,9800,Received,Delhi WH
+PO5178,Sep,9,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,807,230,185610,Pending,Bangalore WH
+PO5179,Sep,9,SKU001,Steel Rods,Raw Material,Reliance Traders,1227,80,98160,Received,Chennai WH
+PO5180,Oct,10,SKU008,Printer Ink,Office Supplies,Reliance Traders,22,430,9460,Received,Bangalore WH
+PO5181,Oct,10,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,253,170,43010,Received,Delhi WH
+PO5182,Oct,10,SKU005,Motor Bearings,Spare Parts,Reliance Traders,70,340,23800,Received,Delhi WH
+PO5183,Oct,10,SKU009,Laptop,IT Equipment,ITC Suppliers,11,53920,593120,Pending,Mumbai WH
+PO5184,Oct,10,SKU001,Steel Rods,Raw Material,Reliance Traders,1022,90,91980,Pending,Bangalore WH
+PO5185,Oct,10,SKU020,Thermal Labels,Packaging,Tata Supplies,128,390,49920,Partial,Chennai WH
+PO5186,Oct,10,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,41,2300,94300,Cancelled,Delhi WH
+PO5187,Oct,10,SKU006,Conveyor Belt,Spare Parts,Mahindra Parts,12,1280,15360,Received,Mumbai WH
+PO5188,Oct,10,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,308,190,58520,Received,Chennai WH
+PO5189,Oct,10,SKU013,Copper Wire,Raw Material,Wipro Materials,564,670,377880,Pending,Delhi WH
+PO5190,Oct,10,SKU015,Stretch Film,Packaging,Wipro Materials,187,430,80410,Pending,Mumbai WH
+PO5191,Oct,10,SKU006,Conveyor Belt,Spare Parts,Mahindra Parts,10,1210,12100,Received,Chennai WH
+PO5192,Oct,10,SKU016,Gear Box,Spare Parts,Tata Supplies,16,4430,70880,Partial,Delhi WH
+PO5193,Oct,10,SKU011,Safety Helmet,Safety Gear,Wipro Materials,98,350,34300,Received,Mumbai WH
+PO5194,Oct,10,SKU015,Stretch Film,Packaging,Wipro Materials,244,420,102480,Received,Mumbai WH
+PO5195,Nov,11,SKU009,Laptop,IT Equipment,ITC Suppliers,8,52790,422320,Partial,Mumbai WH
+PO5196,Nov,11,SKU020,Thermal Labels,Packaging,Tata Supplies,124,360,44640,Received,Bangalore WH
+PO5197,Nov,11,SKU010,Network Switch,IT Equipment,Birla Goods,9,8460,76140,Received,Mumbai WH
+PO5198,Nov,11,SKU008,Printer Ink,Office Supplies,Reliance Traders,83,440,36520,Received,Bangalore WH
+PO5199,Nov,11,SKU009,Laptop,IT Equipment,ITC Suppliers,8,53420,427360,Received,Bangalore WH
+PO5200,Nov,11,SKU013,Copper Wire,Raw Material,Wipro Materials,432,680,293760,Received,Mumbai WH
+PO5201,Nov,11,SKU003,Corrugated Boxes,Packaging,Mahindra Parts,565,30,16950,Pending,Chennai WH
+PO5202,Nov,11,SKU006,Conveyor Belt,Spare Parts,Mahindra Parts,51,1260,64260,Pending,Chennai WH
+PO5203,Nov,11,SKU013,Copper Wire,Raw Material,Wipro Materials,485,680,329800,Received,Mumbai WH
+PO5204,Nov,11,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,51,2160,110160,Partial,Delhi WH
+PO5205,Nov,11,SKU020,Thermal Labels,Packaging,Tata Supplies,106,400,42400,Received,Delhi WH
+PO5206,Nov,11,SKU006,Conveyor Belt,Spare Parts,Mahindra Parts,32,1290,41280,Pending,Mumbai WH
+PO5207,Nov,11,SKU012,Safety Gloves,Safety Gear,Wipro Materials,307,120,36840,Received,Mumbai WH
+PO5208,Nov,11,SKU001,Steel Rods,Raw Material,Reliance Traders,419,90,37710,Received,Delhi WH
+PO5209,Nov,11,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,960,50,48000,Pending,Mumbai WH
+PO5210,Nov,11,SKU006,Conveyor Belt,Spare Parts,Mahindra Parts,20,1230,24600,Received,Bangalore WH
+PO5211,Nov,11,SKU005,Motor Bearings,Spare Parts,Reliance Traders,105,310,32550,Received,Delhi WH
+PO5212,Nov,11,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,65,190,12350,Pending,Bangalore WH
+PO5213,Nov,11,SKU017,Office Chair,Office Supplies,Godrej Logistics,19,5360,101840,Pending,Chennai WH
+PO5214,Nov,11,SKU013,Copper Wire,Raw Material,Wipro Materials,479,690,330510,Received,Delhi WH
+PO5215,Dec,12,SKU005,Motor Bearings,Spare Parts,Reliance Traders,142,310,44020,Received,Bangalore WH
+PO5216,Dec,12,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,304,50,15200,Cancelled,Bangalore WH
+PO5217,Dec,12,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,51,2350,119850,Cancelled,Bangalore WH
+PO5218,Dec,12,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,826,240,198240,Pending,Delhi WH
+PO5219,Dec,12,SKU009,Laptop,IT Equipment,ITC Suppliers,15,54290,814350,Cancelled,Bangalore WH
+PO5220,Dec,12,SKU007,A4 Paper Reams,Office Supplies,Godrej Logistics,306,180,55080,Partial,Delhi WH
+PO5221,Dec,12,SKU012,Safety Gloves,Safety Gear,Wipro Materials,316,120,37920,Received,Delhi WH
+PO5222,Dec,12,SKU020,Thermal Labels,Packaging,Tata Supplies,139,370,51430,Partial,Chennai WH
+PO5223,Dec,12,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,857,40,34280,Received,Mumbai WH
+PO5224,Dec,12,SKU001,Steel Rods,Raw Material,Reliance Traders,996,80,79680,Received,Bangalore WH
+PO5225,Dec,12,SKU017,Office Chair,Office Supplies,Godrej Logistics,6,5930,35580,Received,Bangalore WH
+PO5226,Dec,12,SKU019,Aluminium Sheet,Raw Material,Bajaj Distributors,287,230,66010,Received,Chennai WH
+PO5227,Dec,12,SKU012,Safety Gloves,Safety Gear,Wipro Materials,236,130,30680,Received,Delhi WH
+PO5228,Dec,12,SKU014,PVC Pipe,Raw Material,ITC Suppliers,102,100,10200,Pending,Mumbai WH
+PO5229,Dec,12,SKU001,Steel Rods,Raw Material,Reliance Traders,1272,90,114480,Received,Delhi WH
+PO5230,Dec,12,SKU015,Stretch Film,Packaging,Wipro Materials,224,450,100800,Received,Chennai WH
+PO5231,Dec,12,SKU018,Fire Extinguisher,Safety Gear,Tata Supplies,37,2150,79550,Pending,Bangalore WH
+PO5232,Dec,12,SKU012,Safety Gloves,Safety Gear,Wipro Materials,53,130,6890,Received,Delhi WH
+PO5233,Dec,12,SKU002,Plastic Granules,Raw Material,Bajaj Distributors,374,40,14960,Received,Mumbai WH

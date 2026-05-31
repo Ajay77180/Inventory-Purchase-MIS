@@ -1,0 +1,9 @@
+Vendor,Total_POs,Total_Value,Received_%,Pending_%,Cancelled_%,Avg_PO_Value,Performance_Grade
+ITC Suppliers,27,6073910,51.90%,33.30%,3.70%,224960,Poor
+Wipro Materials,43,3556320,69.80%,16.30%,7.00%,82705,Average
+Tata Supplies,44,3329380,68.20%,13.60%,4.50%,75668,Average
+Godrej Logistics,40,2188730,67.50%,10.00%,12.50%,54718,Average
+Bajaj Distributors,25,2026240,56.00%,28.00%,4.00%,81050,Average
+Reliance Traders,29,1391500,75.90%,10.30%,0.00%,47983,Good
+Mahindra Parts,16,413390,68.80%,18.80%,0.00%,25837,Average
+Birla Goods,9,391110,77.80%,0.00%,11.10%,43457,Good
